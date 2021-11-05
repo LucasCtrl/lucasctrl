@@ -24,7 +24,7 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
 
 #### 🎈 — More
 
-- Email : contact@lucasalt.fr
+- 📧 contact@lucasalt.fr
 - [🌐 LucasAlt.fr](https://lucasalt.fr) • Personal website and blog
 
 #### 💻 — Skills and Tools
