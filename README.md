@@ -20,7 +20,7 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
      </tr>
 </table> -->
 
-[![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc) [![September '21](https://img.shields.io/badge/September%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C16BRVy3s9xw5Sa3Yl4K7) [![August 21'](https://img.shields.io/badge/August%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/29qdh0ZQTFTs2emFFUcnmY)
+[![November '21](https://img.shields.io/badge/November%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1COk7kk9cSEkcZScxqzGvW) [![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc) [![September '21](https://img.shields.io/badge/September%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C16BRVy3s9xw5Sa3Yl4K7) [![August 21'](https://img.shields.io/badge/August%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/29qdh0ZQTFTs2emFFUcnmY)
 
 #### 🎈 — More
 
