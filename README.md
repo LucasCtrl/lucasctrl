@@ -5,8 +5,8 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
 
 > **Optimization** and **minimalism** are my creed.
 
-* Currently, I'm working on **[SpookyBot](https://github.com/LucasCtrl/SpookyBot/)**, a little terror that comes to scare you on your Discord server. Project initiated during the [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
-* I am also the creator of the **[CanvasMe library](https://github.com/LucasCtrl/CanvasMe)**. A library created to simplify my task during my various developments.
+* Currently, I'm working on **[CanvasMe library](https://github.com/LucasCtrl/CanvasMe)**. A library for creating canvas in a simplified way.
+* I am also the creator of the **[SpookyBot](https://github.com/LucasCtrl/SpookyBot/)**, a little terror that comes to scare you on your Discord server. Project initiated during the [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
 * **[n8n](https://n8n.io/)** enthusiast. Creator of the IFTTT workflow port: [`Add saved songs to a monthly playlist`](https://n8n.io/workflows/1074).
 
 <!-- <table align="center">
@@ -20,7 +20,7 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
      </tr>
 </table> -->
 
-[![November '21](https://img.shields.io/badge/November%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1COk7kk9cSEkcZScxqzGvW) [![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc) [![September '21](https://img.shields.io/badge/September%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C16BRVy3s9xw5Sa3Yl4K7) [![August 21'](https://img.shields.io/badge/August%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/29qdh0ZQTFTs2emFFUcnmY)
+[![December '21](https://img.shields.io/badge/December%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/49Efrro3tyo80NpVvgk6F3) [![November '21](https://img.shields.io/badge/November%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1COk7kk9cSEkcZScxqzGvW) [![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc) [![September '21](https://img.shields.io/badge/September%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C16BRVy3s9xw5Sa3Yl4K7)
 
 #### 🎈 — More
 
