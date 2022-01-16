@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-I'm [Lucas Albert](https://lucasalt.fr), a 22 years old French developer with a degree in woodworking.
-UI/UX designer and web developer, I also like developing Discord bots and small tools to automate annoying tasks.
+I'm [Lucas Albert](https://lucasalt.fr), a 22 years old French web developer with more than five years of experience, I develop web applications and I am specialised in the development of ergonomic and minimalist interfaces.
 
 > **Optimization** and **minimalism** are my creed.
 
-* Currently, I'm working on **[CanvasMe library](https://github.com/LucasCtrl/CanvasMe)**. A library for creating canvas in a simplified way.
-* I am also the creator of the **[SpookyBot](https://github.com/LucasCtrl/SpookyBot/)**, a little terror that comes to scare you on your Discord server. Project initiated during the [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
+* Currently instructor on [CAD software](https://en.wikipedia.org/wiki/Computer-aided_design) and [CNC machines](https://en.wikipedia.org/wiki/Numerical_control). I take advantage of my free time to do prototyping in the mechanical keyboard area.
+* I'm aslo working on the library **[CanvasMe](https://github.com/LucasCtrl/CanvasMe)**. A library for creating canvas in a simplified way.
+* In parallel I maintain **[SpookyBot](https://github.com/LucasCtrl/SpookyBot/)**, a little terror that comes to scare you on your Discord server. Project initiated during the [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/).
 * **[n8n](https://n8n.io/)** enthusiast. Creator of the IFTTT workflow port: [`Add saved songs to a monthly playlist`](https://n8n.io/workflows/1074).
 
 <!-- <table align="center">
@@ -20,7 +20,10 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
      </tr>
 </table> -->
 
-[![December '21](https://img.shields.io/badge/December%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/49Efrro3tyo80NpVvgk6F3) [![November '21](https://img.shields.io/badge/November%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1COk7kk9cSEkcZScxqzGvW) [![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc) [![September '21](https://img.shields.io/badge/September%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6C16BRVy3s9xw5Sa3Yl4K7)
+[![January '22](https://img.shields.io/badge/January%2022'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0bLSAyu9XfYo4H4c9vsLHB)
+[![December '21](https://img.shields.io/badge/December%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/49Efrro3tyo80NpVvgk6F3)
+[![November '21](https://img.shields.io/badge/November%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1COk7kk9cSEkcZScxqzGvW)
+[![October '21](https://img.shields.io/badge/October%2021'-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0LDsAubmCKHxySKA03wwsc)
 
 #### 🎈 — More
 
@@ -30,23 +33,24 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
 #### 💻 — Skills and Tools
 
 <p align="left">
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />    
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/yarn.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
 #### 🔔 — Keep up to date on my adventures, follow me everywhere
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lucasctrlalt?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/lucasctrlalt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lucasalt?via=lucasalt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lucasctrlalt?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/lucasctrlalt)
+[![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lucasalt?via=lucasalt)
 
-<details>
+<!-- <details>
 <summary>📈 — More stats and informations about me</summary>
 <table>
   <tr>
@@ -55,5 +59,5 @@ UI/UX designer and web developer, I also like developing Discord bots and small 
      </td>
   </tr>
 </table>
-</details>
+</details> -->
 
